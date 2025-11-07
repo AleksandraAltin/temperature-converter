@@ -47,6 +47,13 @@ Then open your browser at http://localhost:5173/
 - CSS
 
 ---
+
+## 🖼️ Screenshots
+
+| Desktop | Mobile |
+|----------|---------|
+| ![Desktop view](./assets/screenshot.jpg) | ![Mobile view](./assets/screenshot2.jpg) |
+
 📂 Project Structure
 
 ```
