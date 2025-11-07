@@ -28,3 +28,44 @@ Clone the repository and install dependencies:
 git clone https://github.com/AleksandraAltin/temperature-converter.git
 cd temperature-converter
 npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev 
+```
+
+Then open your browser at http://localhost:5173/
+
+🛠️ Tech Stack
+
+-TypeScript
+-Vite
+-HTML
+-CSS
+
+📂 Project Structure
+
+```
+temperature-converter/
+├── src/
+│   ├── main.ts          # Entry point, handles DOM and conversion logic
+│   ├── converter.ts     # Contains temperature conversion functions
+│   ├── style.css        # Basic styling
+├── index.html           # Main HTML page
+├── tsconfig.json        # TypeScript configuration
+├── package.json         # Dependencies and scripts
+└── README.md            # Project documentation
+```
+
+🧩 Future Improvements
+
+-Add more units (e.g., Rankine)
+-Add dark/light mode switch
+-Better input validation
+-Add smooth animations
+
+📄 License
+
+This project is open-source and available under the MIT License
