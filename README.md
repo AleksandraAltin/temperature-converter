@@ -38,13 +38,15 @@ npm run dev
 
 Then open your browser at http://localhost:5173/
 
+---
 🛠️ Tech Stack
 
--TypeScript
--Vite
--HTML
--CSS
+- TypeScript
+- Vite
+- HTML
+- CSS
 
+---
 📂 Project Structure
 
 ```
@@ -58,13 +60,16 @@ temperature-converter/
 ├── package.json         # Dependencies and scripts
 └── README.md            # Project documentation
 ```
+--- 
 
 🧩 Future Improvements
 
--Add more units (e.g., Rankine)
--Add dark/light mode switch
--Better input validation
--Add smooth animations
+- Add more units (e.g., Rankine)
+- Add dark/light mode switch
+- Better input validation
+- Add smooth animations
+
+---
 
 📄 License
 
